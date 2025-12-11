@@ -15,7 +15,7 @@ A simple Python tool to analyze earthquake, temperature, and school exam data.
 ```bash
 # Clone repository
 git clone https://github.com/pukardahalx/basic-data-analyzer.git
-cd nepalese-data-analyzer
+cd basic-data-analyzer
 
 # Create virtual environment
 python -m venv venv
